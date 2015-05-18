@@ -396,7 +396,7 @@ main(int argc, char **argv)
 			scriptaddrtype = 196;
 			break;
 		case 'D': //base58.h in Darkcoin Source Code!
-			addrtype = 76; //line 275 base58.h 
+			addrtype = 102; //line 275 base58.h 
 			privtype = 204; //line 403 base58.h
 			scriptaddrtype = 5; //line 276 base58.h
 			break;
